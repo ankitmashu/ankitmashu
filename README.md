@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **CDPG (formally IUDX)- IISc. Bangalore**
 
-- 🌱 I’m currently working on **Core Java, Vert.x** and learning **Spring Boot**
+- 🌱 I’m currently working on **Core Java, Vert.x** and learning **Spring Boot, Go**
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitmashu&show_icons=true&locale=en&layout=compact" alt="ankitmashu" /></p>
